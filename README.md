@@ -1,6 +1,6 @@
 # Emoji-Pass-X
 
-🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent. 🌐 [agentiloop.ai](https://agentiloop.ai)
 
 An Emoji based Password Manager for iOS, iPadOS and macOS.
 Every record has its own encrpytion key.
